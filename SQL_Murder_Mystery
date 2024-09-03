@@ -1,4 +1,5 @@
 // clues: crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​.
+
 // 1. Retrieving crime scene report from database using given clues 
 
 SELECT *
